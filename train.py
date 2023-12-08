@@ -39,7 +39,7 @@ CONFIG = {
     "seed": 40,
     "epochs": 10,
     "img_size": 224,
-    "model_name": "vit_base_patch16_224",
+    "model_name": "efficientnet_b0.ra_in1k",
     # "checkpoint_path" : "/kaggle/input/tf-efficientnet/pytorch/tf-efficientnet-b0/1/tf_efficientnet_b0_aa-827b6e33.pth",
     "num_classes": 5,
     "train_batch_size": 32,
